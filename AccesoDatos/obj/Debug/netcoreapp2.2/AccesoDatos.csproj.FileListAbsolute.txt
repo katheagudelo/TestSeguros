@@ -1,0 +1,9 @@
+C:\Users\kagudelg\Documents\Seguros\AccesoDatos\bin\Debug\netcoreapp2.2\AccesoDatos.deps.json
+C:\Users\kagudelg\Documents\Seguros\AccesoDatos\bin\Debug\netcoreapp2.2\AccesoDatos.dll
+C:\Users\kagudelg\Documents\Seguros\AccesoDatos\bin\Debug\netcoreapp2.2\AccesoDatos.pdb
+C:\Users\kagudelg\Documents\Seguros\AccesoDatos\obj\Debug\netcoreapp2.2\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\kagudelg\Documents\Seguros\AccesoDatos\obj\Debug\netcoreapp2.2\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\kagudelg\Documents\Seguros\AccesoDatos\obj\Debug\netcoreapp2.2\AccesoDatos.AssemblyInfo.cs
+C:\Users\kagudelg\Documents\Seguros\AccesoDatos\obj\Debug\netcoreapp2.2\AccesoDatos.dll
+C:\Users\kagudelg\Documents\Seguros\AccesoDatos\obj\Debug\netcoreapp2.2\AccesoDatos.pdb
+C:\Users\kagudelg\Documents\Seguros\AccesoDatos\obj\Debug\netcoreapp2.2\AccesoDatos.csprojAssemblyReference.cache

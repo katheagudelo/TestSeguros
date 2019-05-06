@@ -1,0 +1,37 @@
+
+<table class="table">
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">Nombre</th>
+      <th scope="col">Descripcion</th>
+      <th scope="col">Tipo Cubrimiento</th>
+      <th scope="col">Inicio Vigencia</th>
+      <th scope="col">Periodo</th>
+      <th scope="col">Precio Poliza</th>
+      <th scope="col">Cobertura</th>
+      <th scope="col">Tipo Riesgo</th>
+      <th></th>
+      <th></th>
+    </tr> 
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of polizas">
+      <td>{{item.nombre}}</td>
+      <td>{{item.descripcion}}</td>
+      <td>{{item.tipoCubrimiento}}</td>
+      <td>{{item.inicioVigencia | date:"MM/dd/yyyy"}}</td>
+      <td>{{item.periodo}}</td>
+      <td>{{item.precioPoliza}}</td>
+      <td>{{item.cobertura}}</td>
+      <td *ngIf="item.tipoRiesgo === 1">Alto</td>
+      <td *ngIf="item.tipoRiesgo === 2">Medio</td>
+      <td *ngIf="item.tipoRiesgo === 3">Medio-Alto</td>
+      <td *ngIf="item.tipoRiesgo === 4">Bajo</td>
+      <td> <button [routerLink]="['/nuevaPoliza',item.id]" routerLinkActive="router-link-active" class="btn btn-primary btn-lg mr-2" >Editar</button>  </td>
+      <td> <button [routerLink]="['/Poliza']" routerLinkActive="router-link-active"  class="btn btn-primary btn-lg mr-2" (click)="eliminar(item.id)">Eliminar</button> </td>
+    </tr>    
+  </tbody>
+</table>
+
+<button [routerLink]="['/nuevaPoliza']" routerLinkActive="router-link-active"  class="btn btn-primary btn-lg mr-2">Crear Nuevo</button> 
+

@@ -1,0 +1,12 @@
+C:\Users\kagudelg\Documents\Seguros\Negocio\bin\Debug\netcoreapp2.2\Negocio.deps.json
+C:\Users\kagudelg\Documents\Seguros\Negocio\bin\Debug\netcoreapp2.2\Negocio.dll
+C:\Users\kagudelg\Documents\Seguros\Negocio\bin\Debug\netcoreapp2.2\Negocio.pdb
+C:\Users\kagudelg\Documents\Seguros\Negocio\obj\Debug\netcoreapp2.2\Negocio.csprojAssemblyReference.cache
+C:\Users\kagudelg\Documents\Seguros\Negocio\obj\Debug\netcoreapp2.2\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\kagudelg\Documents\Seguros\Negocio\obj\Debug\netcoreapp2.2\Negocio.AssemblyInfoInputs.cache
+C:\Users\kagudelg\Documents\Seguros\Negocio\obj\Debug\netcoreapp2.2\Negocio.AssemblyInfo.cs
+C:\Users\kagudelg\Documents\Seguros\Negocio\obj\Debug\netcoreapp2.2\Negocio.dll
+C:\Users\kagudelg\Documents\Seguros\Negocio\obj\Debug\netcoreapp2.2\Negocio.pdb
+C:\Users\kagudelg\Documents\Seguros\Negocio\bin\Debug\netcoreapp2.2\AccesoDatos.dll
+C:\Users\kagudelg\Documents\Seguros\Negocio\bin\Debug\netcoreapp2.2\AccesoDatos.pdb
+C:\Users\kagudelg\Documents\Seguros\Negocio\obj\Debug\netcoreapp2.2\Negocio.csproj.CopyComplete
